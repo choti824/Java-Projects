@@ -1,0 +1,8 @@
+{
+      "number_of_players": "N",
+      "board_size": "BS",
+      "number_of_snakes": "S",
+      "number_of_ladders": "L",
+      "number_of_dice": "D",
+      "movement_strategy": "MS"
+  }

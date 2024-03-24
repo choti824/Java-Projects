@@ -1,0 +1,24 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch)",
+            "request": "launch",
+            "mainClass": "App", // Replace com.example.Main with your main class
+            "args": [] // Provide any program arguments here
+        }
+    ]
+}
+
+
+
+
+
+// 1. multiple players ke case mein end tk khilana hai.
+// 2. movement method ko integrate krna hai. and no of dices ko.
+// 2. json file se read krna hai.
+// 3. error message print krvaane hain.
+// 4. who_wins.
+
+// 7369.
